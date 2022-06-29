@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@alangrn/aloha-world": "^0.0.3",
-    "@alangrn/hello-world": "^0.0.3"
+    "@alangrn/aloha-world": "^0.0.6",
+    "@alangrn/hello-world": "^0.0.6"
   }
 }
