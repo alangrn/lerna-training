@@ -1,0 +1,26 @@
+{
+  "name": "hello-world",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "alan green <alangrn@hotmail.com>",
+  "homepage": "https://github.com/alangrn/lerna-training#readme",
+  "license": "ISC",
+  "main": "lib/hello-world.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alangrn/lerna-training.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/alangrn/lerna-training/issues"
+  }
+}
