@@ -1,0 +1,13 @@
+{
+  "name": "use-lerna-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@alangrn/aloha-world": "^0.0.3",
+    "@alangrn/hello-world": "^0.0.3"
+  }
+}
