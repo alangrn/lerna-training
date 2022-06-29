@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "@alangrn/hello-world",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "alan green <alangrn@hotmail.com>",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/alangrn/lerna-training/issues"
-  }
+  },
+  "gitHead": "417caad2cdba649bbe9e146aa08f0e14fc8821fe"
 }
