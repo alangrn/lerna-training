@@ -3,11 +3,11 @@
 
 
 "@alangrn/aloha-world@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@alangrn/aloha-world/-/aloha-world-0.0.3.tgz#e30eb861936e7d2aac10bced11c0138d4fe78b1a"
-  integrity sha512-OHkIa+cQScONVa65snzDhR/5OUY5U2K6AVcfmiuRjbQ6sgJ3FBrN8pK4rLxE76l/QDkz8ueNS5t8v4TSnJ2PKA==
+  "integrity" "sha512-OHkIa+cQScONVa65snzDhR/5OUY5U2K6AVcfmiuRjbQ6sgJ3FBrN8pK4rLxE76l/QDkz8ueNS5t8v4TSnJ2PKA=="
+  "resolved" "https://registry.npmjs.org/@alangrn/aloha-world/-/aloha-world-0.0.3.tgz"
+  "version" "0.0.3"
 
 "@alangrn/hello-world@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@alangrn/hello-world/-/hello-world-0.0.3.tgz#d41723920f2857bd48dbb7bfdb364eb4585999f6"
-  integrity sha512-Xkp3dxaZOyQ9joZUF+Qys4hj+wAnD4DRcZzijyjuTECIKIamuXzxomta9J4OkoUBtB7WIgjPX1pRa6S+qnsCzw==
+  "integrity" "sha512-Xkp3dxaZOyQ9joZUF+Qys4hj+wAnD4DRcZzijyjuTECIKIamuXzxomta9J4OkoUBtB7WIgjPX1pRa6S+qnsCzw=="
+  "resolved" "https://registry.npmjs.org/@alangrn/hello-world/-/hello-world-0.0.3.tgz"
+  "version" "0.0.3"
